@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on React, Gatsby
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about React
-- 📫 How to reach me: Facebook
+- 🔭 I’m currently working on React, Gatsby, Nextjs
+- 🌱 I’m currently learning Node js
+- 💬 Ask me about JavaScript, React, Next js, HTML, CSS
+- 📫 How to reach me: Facebook, Linkdin
 - 😄 Pronouns: Hi/His
