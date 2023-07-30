@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on React, Gatsby, Nextjs
 - 🌱 I’m currently learning Node js
 - 💬 Ask me about JavaScript, React, Next js, HTML, CSS
-- 📫 How to reach me: Facebook, Linkdin
+- 📫 How to reach me: Facebook, Linkdin And hasjowel@gmail.com
 - 😄 Pronouns: Hi/His
